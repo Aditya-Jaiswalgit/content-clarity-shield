@@ -51,7 +51,7 @@ const Index = () => {
           </div>
 
           <h1 className="text-5xl md:text-6xl font-bold mb-6">
-            AI Content Risk Monitor
+            Pluto
           </h1>
           
           <p className="text-xl text-muted-foreground mb-8">
