@@ -18,7 +18,7 @@ const Navigation = () => {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link to="/" className="flex items-center gap-2 group">
           <Shield className="w-6 h-6 text-primary" />
-          <span className="text-xl font-semibold">AI Content Risk Monitor</span>
+          <span className="text-xl font-semibold">Pluto</span>
         </Link>
 
         <div className="flex gap-6">
